@@ -1,4 +1,4 @@
-# 💰 Finance Data Processing & Access Control Backend
+# 💰 Finance Management Dashboard
 
 > A production-quality REST API built with **Node.js + Express + MongoDB + JWT** for managing financial records with full Role-Based Access Control (RBAC).
 
@@ -9,7 +9,7 @@
 [![Tests](https://img.shields.io/badge/Tests-96%20passed-brightgreen?logo=jest)](https://jestjs.io)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
-**GitHub:** [https://github.com/Princek1512/finance-backend](https://github.com/Princek1512/finance-backend)
+**GitHub:** [https://github.com/Princek1512/finance-management-dashboard](https://github.com/Princek1512/finance-management-dashboard)
 
 ---
 
